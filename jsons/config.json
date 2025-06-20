@@ -1,13 +1,13 @@
 {
     "api": {
-        "host": "cinepulse.live",
-        "username": "IvanLuizLuiz",
-        "password": "44Y2zUZ7D",
+        "host": "zeusplayy.site",
+        "username": "amigostreaming13",
+        "password": "13stremingamigo",
         "tmdb": "404f82dca818618af6c280d9f5d95389"
     },
     "update": {
-        "version": "1.0.0",
-        "url": "https://drive.google.com/uc?export=download&id=1vo61mnhFWCmgv94PF8QkEY0UxKxF-aLc"
+        "version": "1.0.3",
+        "url": "https://github.com/tvstreamx/tvstreamx/raw/main/plugin.video.tvstreamx.zip"
     },
     "epg_extras": []
 }
