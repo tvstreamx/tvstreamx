@@ -1,0 +1,64 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH5553",
+            "callLetter": "HDTRV",
+            "channelNumber": 582,
+            "channelMapNumber": 582,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/08/9083560_323C237389CB7B10.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Terra Viva"
+        },
+        {
+            "pid": "LCH4104",
+            "callLetter": "HDAGR",
+            "channelNumber": 587,
+            "channelMapNumber": 587,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/14/7146011_412356182209A40D.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Agro+"
+        },
+        {
+            "pid": "LCH6284",
+            "callLetter": "HDCRUL",
+            "channelNumber": 590,
+            "channelMapNumber": 590,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea10/IMAGES/00/13/33/13337082_6DD1D003EBB76581.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Canal Rural"
+        },
+        {
+            "pid": "LCH6285",
+            "callLetter": "HDCRIA",
+            "channelNumber": 591,
+            "channelMapNumber": 591,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea10/IMAGES/00/13/33/13337080_D30C6D6066C648FB.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Canal do Criador"
+        }
+    ]
+}

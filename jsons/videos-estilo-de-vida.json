@@ -1,0 +1,79 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH56",
+            "callLetter": "HDGST",
+            "channelNumber": 544,
+            "channelMapNumber": 544,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867116_1453C12018B6CE42.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Modo Viagem,Canal Modo Viagem"
+        },
+        {
+            "pid": "LCH3960",
+            "callLetter": "HDHGT",
+            "channelNumber": 618,
+            "channelMapNumber": 618,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/98/4982782_2C3F0CE8D1052BD8.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HGTV,HGTV Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "GNT",
+            "channelNumber": 541,
+            "channelMapNumber": 541,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "GNT,Canal GNT"
+        },
+        {
+            "pid": "0",
+            "callLetter": "FOOD",
+            "channelNumber": 619,
+            "channelMapNumber": 619,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Food Network,Food Network Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "TLCD",
+            "channelNumber": 620,
+            "channelMapNumber": 620,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TLC,TLC Brasil"
+        }
+    ]
+}

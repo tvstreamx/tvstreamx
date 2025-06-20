@@ -1,0 +1,109 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH469",
+            "callLetter": "HDMTV",
+            "channelNumber": 633,
+            "channelMapNumber": 633,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/76/17765321_CD3C1C25E928C447.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "MTV,MTV Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "BIS",
+            "channelNumber": 634,
+            "channelMapNumber": 634,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "BIS,Canal BIS"
+        },
+        {
+            "pid": "0",
+            "callLetter": "MTVLV",
+            "channelNumber": 635,
+            "channelMapNumber": 635,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "MTV Live,MTV Live Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "VH1",
+            "channelNumber": 636,
+            "channelMapNumber": 636,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "VH1,VH1 Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "MUSICT",
+            "channelNumber": 637,
+            "channelMapNumber": 637,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Music Top,Music Top TV"
+        },
+        {
+            "pid": "0",
+            "callLetter": "PLAYTV",
+            "channelNumber": 638,
+            "channelMapNumber": 638,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "PlayTV,Play TV"
+        },
+        {
+            "pid": "0",
+            "callLetter": "TRACE",
+            "channelNumber": 639,
+            "channelMapNumber": 639,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Trace,Trace Brasil"
+        }
+    ]
+}

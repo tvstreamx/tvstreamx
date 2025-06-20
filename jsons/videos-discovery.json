@@ -1,0 +1,184 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH769",
+            "callLetter": "HDDIC",
+            "channelNumber": 594,
+            "channelMapNumber": 594,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/19/6199854_48DD635CA70680D9.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery Channel, Discovery"
+        },
+        {
+            "pid": "LCH39",
+            "callLetter": "HDDSC",
+            "channelNumber": 593,
+            "channelMapNumber": 593,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116418_973D80529B29DB21.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery Theater"
+        },
+        {
+            "pid": "LCH1253",
+            "callLetter": "HDTUR",
+            "channelNumber": 600,
+            "channelMapNumber": 600,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116423_01D7E1AB09137043.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery Turbo"
+        },
+        {
+            "pid": "LCH3286",
+            "callLetter": "HDCSI",
+            "channelNumber": 601,
+            "channelMapNumber": 601,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/34/3345029_CA9A40858535B51A.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery Science"
+        },
+        {
+            "pid": "LCH1242",
+            "callLetter": "DCWRD",
+            "channelNumber": 621,
+            "channelMapNumber": 621,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/76/17761409_8EF05ED2EE6EE6DA.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery World"
+        },
+        {
+            "pid": "LCH1252",
+            "callLetter": "HDTLC",
+            "channelNumber": 623,
+            "channelMapNumber": 623,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/76/17761411_F95E18406FE77255.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TLC"
+        },
+        {
+            "pid": "LCH770",
+            "callLetter": "HDDSK",
+            "channelNumber": 550,
+            "channelMapNumber": 550,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/08/69/8694894_BA6A9407B955944F.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery Kids"
+        },
+        {
+            "pid": "0",
+            "callLetter": "ANPL",
+            "channelNumber": 595,
+            "channelMapNumber": 595,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Animal Planet"
+        },
+        {
+            "pid": "0",
+            "callLetter": "INVD",
+            "channelNumber": 596,
+            "channelMapNumber": 596,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Investigation Discovery, Investigação Discovery, ID Investigação Discovery, ID"
+        },
+        {
+            "pid": "0",
+            "callLetter": "DHH",
+            "channelNumber": 597,
+            "channelMapNumber": 597,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery Home & Health"
+        },
+        {
+            "pid": "0",
+            "callLetter": "FOOD",
+            "channelNumber": 624,
+            "channelMapNumber": 624,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Food Network"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HGTV",
+            "channelNumber": 625,
+            "channelMapNumber": 625,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HGTV"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH215",
+            "callLetter": "HDMSH",
+            "channelNumber": 542,
+            "channelMapNumber": 542,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114962_E9AA5B92DB6B5AAE.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Multishow,Multi Show"
+        },
+        {
+            "pid": "LCH677",
+            "callLetter": "HDVIV",
+            "channelNumber": 543,
+            "channelMapNumber": 543,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/08/41/8411309_9F7C801D5C050137.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Viva,Canal Viva"
+        },
+        {
+            "pid": "LCH7063",
+            "callLetter": "UREAL",
+            "channelNumber": 614,
+            "channelMapNumber": 614,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/82/20826946_5A9FB017665F3EFF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Universal Reality,Universal"
+        },
+        {
+            "pid": "LCH2055",
+            "callLetter": "HDLIF",
+            "channelNumber": 625,
+            "channelMapNumber": 625,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/29/7292197_164EC0E7C3B27CBE.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Lifetime,Life Time"
+        },
+        {
+            "pid": "LCH2073",
+            "callLetter": "HDE",
+            "channelNumber": 626,
+            "channelMapNumber": 626,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116426_512F139F08782B06.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "E!,E Entertainment"
+        },
+        {
+            "pid": "LCH128",
+            "callLetter": "HDTRU",
+            "channelNumber": 628,
+            "channelMapNumber": 628,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/36/17367942_6B0CB78AE7580748.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Adult Swim,AdultSwim"
+        },
+        {
+            "pid": "LCH150",
+            "callLetter": "HDAE",
+            "channelNumber": 645,
+            "channelMapNumber": 645,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/76/17765184_127CCCBCC55DE9F3.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "A&E,A and E"
+        },
+        {
+            "pid": "LCH649",
+            "callLetter": "HDCMC",
+            "channelNumber": 651,
+            "channelMapNumber": 651,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/74/17745056_F96FCCF5A07CED7D.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Comedy Central,Comedy"
+        },
+        {
+            "pid": "LCH949",
+            "callLetter": "HDPMT",
+            "channelNumber": 659,
+            "channelMapNumber": 659,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/07/02/7028250_D8AB1C22244B1BCD.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Paramount Network,Paramount"
+        },
+        {
+            "pid": "0",
+            "callLetter": "TNT",
+            "channelNumber": 648,
+            "channelMapNumber": 648,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TNT,TNT Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "SYFY",
+            "channelNumber": 647,
+            "channelMapNumber": 647,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Syfy,Syfy Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "TBS",
+            "channelNumber": 650,
+            "channelMapNumber": 650,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TBS,TBS Brasil"
+        }
+    ]
+}

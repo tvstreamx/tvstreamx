@@ -1,0 +1,31 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "TV‎ ",
+            "descricao": "Explore uma ampla seleção de canais de televisão ao vivo com conteúdo diversificado para todas as idades e preferências. Assista a noticiários em tempo real, programas de variedades, novelas, realities, esportes ao vivo, programação infantil, musicais, talk shows e muito mais. Ideal para quem busca entretenimento contínuo e acesso instantâneo à programação tradicional e contemporânea.",
+            "icon": "https://image.tmdb.org/t/p/original/kUWvvMkNIf21UUDmHjYw55v6o7C.jpg",
+            "background": "https://image.tmdb.org/t/p/original/bEKRyT7WN5TjFKv0JTWI2cyNlak.jpg",
+            "subcategoria": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/arquivos/tv-subcategorias.json",
+            "action": "get_live_streams"
+        },
+        {
+            "id": 2,
+            "nome": "Filmes‎ ",
+            "descricao": "Explore uma coleção completa de filmes que abrange todos os gêneros e estilos. De lançamentos recentes a clássicos imortais, você encontrará dramas emocionantes, comédias engraçadas, romances intensos, thrillers cheios de suspense, filmes de ação eletrizantes, animações encantadoras, terror arrepiante, além de produções premiadas e independentes. Uma experiência cinematográfica completa, disponível a qualquer hora.",
+            "icon": "https://image.tmdb.org/t/p/original/vdGTQfWD43djVUInKxeSbeXyeIh.jpg",
+            "background": "https://image.tmdb.org/t/p/original/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+            "subcategoria": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/arquivos/filmes-subcategorias.json",
+            "action": "get_vod_streams"
+        },
+        {
+            "id": 3,
+            "nome": "Séries‎ ",
+            "descricao": "Explore uma vasta biblioteca de séries com episódios completos e temporadas inteiras à sua disposição. Acompanhe histórias envolventes com tramas contínuas, personagens cativantes e produções de alta qualidade. Encontre comédias, dramas, ficção científica, suspense, policiais, documentários, séries juvenis e muito mais. Perfeito para maratonar e se conectar com universos ricos em narrativa.",
+            "icon": "https://image.tmdb.org/t/p/original/vAWbuHR9u9mHI9CjP3JBpRxtdRZ.jpg",
+            "background": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+            "subcategoria": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/arquivos/series-subcategorias.json",
+            "action": "get_series"
+        }
+    ]
+}

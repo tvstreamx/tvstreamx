@@ -1,0 +1,124 @@
+{
+    "userChannels": [
+        {
+            "pid": "0",
+            "callLetter": "HDART",
+            "channelNumber": 501,
+            "channelMapNumber": 501,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Arte 1, Arte 1 Brasil, TV Arte 1, Canal Arte 1"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDFILM",
+            "channelNumber": 502,
+            "channelMapNumber": 502,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Film & Arts, Film and Arts, TV Film & Arts, Film & Arts Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "CURTA",
+            "channelNumber": 503,
+            "channelMapNumber": 503,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Curta!, Curta TV, Canal Curta!, TV Curta"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTVC",
+            "channelNumber": 504,
+            "channelMapNumber": 504,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Cultura, Cultura, Televisão Cultura, Cultura TV, TV Cultura SP"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDFUT",
+            "channelNumber": 505,
+            "channelMapNumber": 505,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Futura, Canal Futura, TV Futura, Futura TV"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDHIS",
+            "channelNumber": 506,
+            "channelMapNumber": 506,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "History, History Channel, TV History, History Brasil, Canal History"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDNAT",
+            "channelNumber": 507,
+            "channelMapNumber": 507,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "National Geographic, Nat Geo, TV National Geographic, Nat Geo Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDHI2",
+            "channelNumber": 508,
+            "channelMapNumber": 508,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "History 2, H2, Canal History 2, History 2 Brasil"
+        }
+    ]
+}

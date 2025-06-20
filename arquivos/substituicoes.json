@@ -1,0 +1,29 @@
+{
+    "substituicoes": [
+        {"original": " SP", "novo": ""},
+        {"original": "AGRO+ ", "novo": "Agromais"},
+        {"original": "arte1", "novo": "Arte 1"},
+        {"original": "Brazil", "novo": "Brasil"},
+        {"original": "TV Brasil  - Joinville", "novo": "TV Brasil"},
+        {"original": "AGRO+ ", "novo": "Agromais"},
+        {"original": "arte1", "novo": "Arte 1"},
+        {"original": "Brazil", "novo": "Brasil"},
+        {"original": "canal utura", "novo": "Futura"},
+        {"original": "ID - INVESTIGAÇAO DISCOVERY", "novo": "Investigação Discovery"},
+        {"original": "discovery home & health", "novo": "Discovery Home & Health"},
+        {"original": "FOX SPORTS", "novo": "FOX Sports"},
+        {"original": "globo tv gazeta", "novo": "Gazeta"},
+        {"original": "H&H", "novo": "Home & Health"},
+        {"original": "HBO PLUS LEG", "novo": "HBO Plus"},
+        {"original": "HGTV", "novo": "Discovery Civilization"},
+        {"original": "ID", "novo": "Investigação Discovery"},
+        {"original": "natgeo", "novo": "NatGeo Wild"},
+        {"original": "NATIONAL GEOGRAPHIC (NATGEO)", "novo": "National Geographic"},
+        {"original": "Nick JR", "novo": "Nick Jr."},
+        {"original": "pt: nat geo wild", "novo": "National Geographic Wild"},
+        {"original": "REDE TV", "novo": "RedeTV!"},
+        {"original": "Tru TV", "novo": "TruTV"},
+        {"original": "TV RA-TIM-BUM", "novo": "TV Rá Tim Bum!"},
+        {"original": "Zoo Moo", "novo": "Zoomoo"}
+    ]
+}

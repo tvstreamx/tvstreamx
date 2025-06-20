@@ -1,0 +1,94 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH2889",
+            "callLetter": "HDFUT",
+            "channelNumber": 524,
+            "channelMapNumber": 524,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/72/12726256_7FCA1FF76B29AFE7.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Tv Futura, Futura,Canal Futura"
+        },
+        {
+            "pid": "LCH2443",
+            "callLetter": "HDRAT",
+            "channelNumber": 553,
+            "channelMapNumber": 553,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/16/16163244_78CFC2D02DC755FE.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV RÁ Tim Bum,TV Ra Tim Bum, Ra tim bum"
+        },
+        {
+            "pid": "LCH3650",
+            "callLetter": "HDNHK",
+            "channelNumber": 700,
+            "channelMapNumber": 700,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/81/3816731_45B1BFA1F1025883.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "NHK,NHK World"
+        },
+        {
+            "pid": "0",
+            "callLetter": "TVCULT",
+            "channelNumber": 526,
+            "channelMapNumber": 526,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Cultura,Cultura,Rede Cultura"
+        },
+        {
+            "pid": "0",
+            "callLetter": "TVESC",
+            "channelNumber": 528,
+            "channelMapNumber": 528,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Escola,Escola"
+        },
+        {
+            "pid": "0",
+            "callLetter": "UNIVESP",
+            "channelNumber": 530,
+            "channelMapNumber": 530,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Univesp TV,Univesp"
+        }
+    ]
+}

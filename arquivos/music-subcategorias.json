@@ -1,0 +1,44 @@
+{
+  "subcategorias": [
+    {
+      "id": 0,
+      "nome": "Pesquisar Músicas",
+      "descricao": "Busque músicas ou artistas pelo nome.",
+      "icon": "https://example.com/icons/search_music.png",
+      "background": "https://example.com/backgrounds/search_music.jpg",
+      "programacao": "https://www.googleapis.com/youtube/v3/search?part=snippet&q={realizarbusca}&type=video&videoCategoryId=10&maxResults=20&key=AIzaSyAOJwFUBrS75VerN4BG2kKCjKrW_B701e0"
+    },
+    {
+      "id": 1,
+      "nome": "Lançamentos",
+      "descricao": "Os mais recentes clipes musicais.",
+      "icon": "https://example.com/icons/new_releases.png",
+      "background": "https://example.com/backgrounds/new_releases.jpg",
+      "programacao": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=music+new+releases&type=video&videoCategoryId=10&maxResults=20&key=AIzaSyAOJwFUBrS75VerN4BG2kKCjKrW_B701e0"
+    },
+    {
+      "id": 2,
+      "nome": "Pop",
+      "descricao": "Músicas do gênero Pop.",
+      "icon": "https://example.com/icons/pop.png",
+      "background": "https://example.com/backgrounds/pop.jpg",
+      "programacao": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=pop+music&type=video&videoCategoryId=10&maxResults=20&key=AIzaSyAOJwFUBrS75VerN4BG2kKCjKrW_B701e0"
+    },
+    {
+      "id": 3,
+      "nome": "Rock",
+      "descricao": "Músicas do gênero Rock.",
+      "icon": "https://example.com/icons/rock.png",
+      "background": "https://example.com/backgrounds/rock.jpg",
+      "programacao": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=rock+music&type=video&videoCategoryId=10&maxResults=20&key=AIzaSyAOJwFUBrS75VerN4BG2kKCjKrW_B701e0"
+    },
+    {
+      "id": 4,
+      "nome": "Sertanejo",
+      "descricao": "Músicas do gênero Sertanejo.",
+      "icon": "https://example.com/icons/sertanejo.png",
+      "background": "https://example.com/backgrounds/sertanejo.jpg",
+      "programacao": "https://www.googleapis.com/youtube/v3/search?part=snippet&q=sertanejo+music&type=video&videoCategoryId=10&maxResults=20&key=AIzaSyAOJwFUBrS75VerN4BG2kKCjKrW_B701e0"
+    }
+  ]
+}

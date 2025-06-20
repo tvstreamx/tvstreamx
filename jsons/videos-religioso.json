@@ -1,0 +1,109 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH5554",
+            "callLetter": "HDTVN",
+            "channelNumber": 401,
+            "channelMapNumber": 401,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/08/9083554_75B09A0C037C7FEF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Novo Tempo"
+        },
+        {
+            "pid": "LCH204",
+            "callLetter": "RIT",
+            "channelNumber": 402,
+            "channelMapNumber": 402,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/92/19923615_F0CDEB7A996942DF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RIT"
+        },
+        {
+            "pid": "LCH3401",
+            "callLetter": "HDS21",
+            "channelNumber": 511,
+            "channelMapNumber": 511,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/48/3483804_CCD8C63974D8D7DC.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Rede Século 21"
+        },
+        {
+            "pid": "LCH3546",
+            "callLetter": "HDRED",
+            "channelNumber": 529,
+            "channelMapNumber": 529,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/68/3684238_72691D01C85A539E.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Rede Vida"
+        },
+        {
+            "pid": "LCH3648",
+            "callLetter": "HDAPAR",
+            "channelNumber": 530,
+            "channelMapNumber": 530,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/81/3816709_09929ED021BFBC6E.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Aparecida"
+        },
+        {
+            "pid": "LCH3652",
+            "callLetter": "HDCNVA",
+            "channelNumber": 531,
+            "channelMapNumber": 531,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/81/3816713_168EF81A0FF877B4.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Canção Nova"
+        },
+        {
+            "pid": "LCH2066",
+            "callLetter": "CLMTP",
+            "channelNumber": 589,
+            "channelMapNumber": 589,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/98/16985415_923A905939DBCB48.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "C3 TV"
+        }
+    ]
+}

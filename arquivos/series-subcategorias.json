@@ -1,0 +1,157 @@
+{
+    "subcategorias": [
+        {
+            "id": 0,
+            "categoria_id": 3,
+            "nome": "Pesquisar‎ ",
+            "icon": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/imagens/pesquisar.png",
+            "background": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/imagens/fanart.jpg",
+            "descricao": "Descubra rapidamente os filmes e séries mais recentes com uma busca prática e eficiente, trazendo as novidades mais empolgantes direto para você.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=popularity.desc&with_text_query={realizarbusca}"
+        },
+        {
+            "id": 1,
+            "categoria_id": 3,
+            "nome": "Lançamentos‎‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Acompanhe as estreias mais recentes que acabaram de chegar às telas, perfeitas para quem ama estar sempre atualizado com o que há de novo.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=popularity.desc&first_air_date_year=2025&page=1"
+        },
+        {
+            "id": 2,
+            "categoria_id": 3,
+            "nome": "Tendências da Semana‎‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Veja o que está bombando ao redor do mundo com as séries mais assistidas e comentadas da semana, selecionadas pelo gosto do público.",
+            "programacao": "https://api.themoviedb.org/3/trending/tv/week?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 3,
+            "categoria_id": 3,
+            "nome": "Netflix‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Mergulhe nas séries mais viciantes da Netflix, ideais para maratonas inesquecíveis a qualquer hora.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=8&watch_region=BR&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 4,
+            "categoria_id": 3,
+            "nome": "Amazon Prime‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Curta séries exclusivas e sucessos imperdíveis disponíveis no Amazon Prime, perfeitas para todos os gostos.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=531&watch_region=BR&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 5,
+            "categoria_id": 3,
+            "nome": "Disney+‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Viva aventuras encantadoras e emocionantes com as séries do Disney+, feitas para sonhar acordado.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?with_watch_providers=337&watch_region=BR&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 6,
+            "categoria_id": 3,
+            "nome": "Action & Adventure‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Embarque em séries repletas de adrenalina, combates épicos e jornadas emocionantes que aceleram o coração.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=10759&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 7,
+            "categoria_id": 3,
+            "nome": "Animação‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Deixe-se levar por animações cativantes que misturam criatividade e histórias que conquistam todas as idades.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=16&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 8,
+            "categoria_id": 3,
+            "nome": "Comédia‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Relaxe e divirta-se com séries leves e hilárias que garantem risadas do começo ao fim.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=35&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 9,
+            "categoria_id": 3,
+            "nome": "Crime‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Desvende casos intrigantes e acompanhe investigações eletrizantes que desafiam sua mente.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=80&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 10,
+            "categoria_id": 3,
+            "nome": "Documentário‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Conheça histórias reais e surpreendentes que revelam os segredos do mundo ao seu redor.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=99&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 11,
+            "categoria_id": 3,
+            "nome": "Drama‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Viva emoções intensas com narrativas profundas que tocam a alma e inspiram reflexões.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=18&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 12,
+            "categoria_id": 3,
+            "nome": "Família‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Reúna todos em casa para curtir séries leves e divertidas que agradam a todas as gerações.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=10751&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 13,
+            "categoria_id": 3,
+            "nome": "Kids‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Alegre os dias das crianças com séries coloridas e cheias de aventuras para os mais novos.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=10762&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 14,
+            "categoria_id": 3,
+            "nome": "Mistério‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Tente solucionar enigmas complexos em séries que misturam suspense e surpresas a cada episódio.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=9648&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 15,
+            "categoria_id": 3,
+            "nome": "Sci-Fi & Fantasy‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Viaje por mundos fantásticos e futuros imaginários com séries que desafiam a realidade.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=10765&sort_by=vote_count.desc&page=1"
+        },
+        {
+            "id": 16,
+            "categoria_id": 3,
+            "nome": "Faroeste‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Reviva o espírito do velho oeste com séries cheias de duelos, poeira e grandes aventuras.",
+            "programacao": "https://api.themoviedb.org/3/discover/tv?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_genres=37&sort_by=vote_count.desc&page=1"
+        }
+    ]
+}

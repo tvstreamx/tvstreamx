@@ -1,0 +1,34 @@
+{
+  "subcategorias": [
+    {
+      "id": 1,
+      "nome": "Canais 24 Horas",
+      "descricao": "Aproveite uma seleção de canais e conteúdos transmitidos ininterruptamente, 24 horas por dia, 7 dias por semana, com programação variada para todos os gostos.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logotipo_de_Canal_24_Horas_%282011-2015%29.png/698px-Logotipo_de_Canal_24_Horas_%282011-2015%29.png",
+      "background": "https://www.tvenserio.com/wp-content/uploads/2023/05/imagen_2023-05-31_193348883-1024x576.png",
+      "palavras_chave": ["24H", "24 H", "24 Horas"],
+      "remover_palavras_chave": true,
+      "use_tmdb": true
+    },
+    {
+      "id": 2,
+      "nome": "Big Brother Brasil 24h",
+      "descricao": "Acompanhe ao vivo, 24 horas por dia, a rotina dos participantes do Big Brother Brasil, com acesso exclusivo a câmeras que capturam cada momento de convivência, provas e emoções na casa mais vigiada do país.",
+      "icon": "https://image.tmdb.org/t/p/original/ky0CxomLrqZ2cOh92agjAKECEKM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pj5IfOEbrlL5PvofwLLlQ79bL6S.jpg",
+      "palavras_chave": ["BBB"],
+      "remover_palavras_chave": false,
+      "use_tmdb": false
+    },
+    {
+      "id": 3,
+      "nome": "Sky 24h",
+      "descricao": "Desfrute de uma programação contínua da Sky, com canais ao vivo 24 horas por dia, oferecendo entretenimento, esportes, notícias e muito mais, sem interrupções.",
+      "icon": "https://image.tmdb.org/t/p/original/ky0CxomLrqZ2cOh92agjAKECEKM.jpg",
+      "background": "https://image.tmdb.org/t/p/original/pj5IfOEbrlL5PvofwLLlQ79bL6S.jpg",
+      "palavras_chave": ["Sky"],
+      "remover_palavras_chave": false,
+      "use_tmdb": false
+    }
+  ]
+}

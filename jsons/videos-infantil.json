@@ -1,0 +1,184 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH3872",
+            "callLetter": "HDGBI",
+            "channelNumber": 549,
+            "channelMapNumber": 549,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/20/4207429_1EE26F2DD692BAF2.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Gloobinho,Canal Gloobinho"
+        },
+        {
+            "pid": "LCH147",
+            "callLetter": "HDGLB",
+            "channelNumber": 551,
+            "channelMapNumber": 551,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/16/3163535_E08190CF7ADE8A9F.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Gloob,Canal Gloob"
+        },
+        {
+            "pid": "LCH5629",
+            "callLetter": "HDDRW",
+            "channelNumber": 554,
+            "channelMapNumber": 554,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867110_CFABBDBD2773118D.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Dreamworks,Dreamworks Brasil"
+        },
+        {
+            "pid": "LCH5630",
+            "callLetter": "HDZOO",
+            "channelNumber": 556,
+            "channelMapNumber": 556,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/69/15699815_F4CE2A8D9C8DA74B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Zoomoo,Zoomoo Kids"
+        },
+        {
+            "pid": "LCH2102",
+            "callLetter": "TOOND",
+            "channelNumber": 557,
+            "channelMapNumber": 557,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3115040_1DBC5CEF6EA0E9FB.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Tooncast,Canal Tooncast"
+        },
+        {
+            "pid": "LCH934",
+            "callLetter": "HDNCK",
+            "channelNumber": 558,
+            "channelMapNumber": 558,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/74/17745386_15550260480AAB8A.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Nickelodeon,Nick"
+        },
+        {
+            "pid": "LCH2794",
+            "callLetter": "CRTOO",
+            "channelNumber": 560,
+            "channelMapNumber": 560,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/12/10126671_49DF0A22B1E74D27.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Cartoonito,Canal Cartoonito"
+        },
+        {
+            "pid": "LCH5631",
+            "callLetter": "HDBKS",
+            "channelNumber": 561,
+            "channelMapNumber": 561,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867105_90C43BA737202E0B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Box Kids,BoxKids"
+        },
+        {
+            "pid": "0",
+            "callLetter": "CARTO",
+            "channelNumber": 559,
+            "channelMapNumber": 559,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Cartoon Network,Cartoon"
+        },
+        {
+            "pid": "0",
+            "callLetter": "DISJR",
+            "channelNumber": 552,
+            "channelMapNumber": 552,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Disney Junior,Disney Jr"
+        },
+        {
+            "pid": "0",
+            "callLetter": "DISCH",
+            "channelNumber": 550,
+            "channelMapNumber": 550,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Disney Channel,Disney"
+        },
+        {
+            "pid": "0",
+            "callLetter": "NJR",
+            "channelNumber": 555,
+            "channelMapNumber": 555,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Nick Jr,Nick Junior"
+        }
+    ]
+}

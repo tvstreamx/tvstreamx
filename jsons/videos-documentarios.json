@@ -1,0 +1,94 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH2199",
+            "callLetter": "ANPHD",
+            "channelNumber": 595,
+            "channelMapNumber": 595,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/34/4342613_52DE484CB67EA51C.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Animal Planet,Animal Planet Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "NGHD",
+            "channelNumber": 590,
+            "channelMapNumber": 590,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "National Geographic,Nat Geo"
+        },
+        {
+            "pid": "0",
+            "callLetter": "DSCHD",
+            "channelNumber": 592,
+            "channelMapNumber": 592,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Discovery Channel,Discovery"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HIST",
+            "channelNumber": 594,
+            "channelMapNumber": 594,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "History Channel,History"
+        },
+        {
+            "pid": "0",
+            "callLetter": "ID",
+            "channelNumber": 596,
+            "channelMapNumber": 596,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Investigation Discovery, Investigação Discovery, ID Investigação Discovery, ID"
+        },
+        {
+            "pid": "0",
+            "callLetter": "SMITH",
+            "channelNumber": 598,
+            "channelMapNumber": 598,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Smithsonian Channel,Smithsonian"
+        }
+    ]
+}

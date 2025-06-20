@@ -1,0 +1,175 @@
+{
+    "subcategorias": [
+        {
+            "id": 1,
+            "categoria_id": 1,
+            "nome": "Agronegócio‎",
+            "icon": "https://image.tmdb.org/t/p/original/jKKhaznn7ZlAqaQeDUeCaQaDelS.jpg",
+            "background": "https://image.tmdb.org/t/p/original/26AskxCu17IclesKpKSZI7nErM2.jpg",
+            "descricao": "Atualizações sobre agricultura, técnicas inovadoras e gestão rural.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-agronegocio.json"
+        },
+        {
+            "id": 2,
+            "categoria_id": 1,
+            "nome": "Canais Abertos‎",
+            "icon": "https://image.tmdb.org/t/p/original/kwtmhJquIJTFRqsO8RZr9L6b6mn.jpg",
+            "background": "https://image.tmdb.org/t/p/original/p6nqjvc3lalZklXAbKBYQ16oa0v.jpg",
+            "descricao": "Programas de TV variados, do entretenimento a notícias regionais.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-canais-abertos.json"
+        },
+        {
+            "id": 3,
+            "categoria_id": 1,
+            "nome": "Culinária‎",
+            "icon": "https://image.tmdb.org/t/p/original/txmSBp6ZIzXJEnxij1dRjqyF12x.jpg",
+            "background": "https://image.tmdb.org/t/p/original/5oxneA9gbEaxfl5sRnx2mm5HOte.jpg",
+            "descricao": "Dicas e receitas para explorar o mundo da gastronomia.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-culinaria.json"
+        },
+        {
+            "id": 4,
+            "categoria_id": 1,
+            "nome": "Cultura‎",
+            "icon": "https://image.tmdb.org/t/p/original/gBzm8P5VUmgdUmehxuAWnBIZwvp.jpg",
+            "background": "https://image.tmdb.org/t/p/original/eAzcglYY8UqZcSpP7K6u0XEkQvt.jpg",
+            "descricao": "Apreciação de eventos culturais e tradições globais.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-cultura.json"
+        },
+        {
+            "id": 5,
+            "categoria_id": 1,
+            "nome": "Discovery‎",
+            "icon": "https://image.winudf.com/v2/image1/Y29tLmRpc2NvdmVyeS5kaXNjb3BsdXNfc2NyZWVuXzBfMTYyNzA1OTQwMl8wOTY/screen-0.webp?fakeurl=1&type=.webp",
+            "background": "https://image.winudf.com/v2/image1/Y29tLmRpc2NvdmVyeS5kaXNjb3BsdXNfc2NyZWVuXzdfMTYyNzA1OTQwNl8wMzU/screen-5.webp?fakeurl=1&type=.webp",
+            "descricao": "Explorações em ciência e natureza com documentários fascinantes.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-discovery.json"
+        },
+        {
+            "id": 6,
+            "categoria_id": 1,
+            "nome": "Documentários‎",
+            "icon": "https://image.tmdb.org/t/p/original/h7wy4PtGGbmNFVzeSAXUafcw6Hf.jpg",
+            "background": "https://image.tmdb.org/t/p/original/oY39qBH9XO4NLw0fCG76H4DcpwL.jpg",
+            "descricao": "Fatos e histórias reais que informam e educam.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-documentarios.json"
+        },
+        {
+            "id": 7,
+            "categoria_id": 1,
+            "nome": "Educativo‎",
+            "icon": "https://eaieduca.com.br/wp-content/uploads/2024/07/img-bloco-01.png",
+            "background": "https://eaieduca.com.br/wp-content/uploads/2024/07/header-eai-site.jpg",
+            "descricao": "Aulas e tutoriais para enriquecer seu conhecimento.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-educativo.json"
+        },
+        {
+            "id": 8,
+            "categoria_id": 1,
+            "nome": "Entretenimento‎",
+            "icon": "https://image.tmdb.org/t/p/original/el2WbTyekllBCCrkcGtifz1WKV0.jpg",
+            "background": "https://image.tmdb.org/t/p/original/lAcHRBrQrs3OZEawjNhtFK6S3kE.jpg",
+            "descricao": "Conteúdos que garantem diversão e risadas.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-entretenimento.json"
+        },
+        {
+            "id": 9,
+            "categoria_id": 1,
+            "nome": "Esportes‎",
+            "icon": "https://image.tmdb.org/t/p/original/k3NlkqDeYmKTsx7QIQWjXXo0DeW.jpg",
+            "background": "https://image.tmdb.org/t/p/original/pbdOYoMXNy92KxaoAhrHYchV6Pg.jpg",
+            "descricao": "Cobertura de eventos esportivos e análises detalhadas.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-esportes.json"
+        },
+        {
+            "id": 10,
+            "categoria_id": 1,
+            "nome": "Estilo de Vida‎",
+            "icon": "https://image.tmdb.org/t/p/original/5BwqwxMEjeFtdknRV792Svo0K1v.jpg",
+            "background": "https://image.tmdb.org/t/p/original/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
+            "descricao": "Programas sobre moda, decoração e bem-estar.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-estilo-de-vida.json"
+        },
+        {
+            "id": 11,
+            "categoria_id": 1,
+            "nome": "Filmes‎",
+            "icon": "https://image.tmdb.org/t/p/original/tpxxxcWpibzjhYQtd3mDVRijnQX.jpg",
+            "background": "https://image.tmdb.org/t/p/original/uGmYqxh8flqkudioyFtD7IJSHxK.jpg",
+            "descricao": "Análises e novidades sobre o mundo do cinema e da TV.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-filmes.json"
+        },
+        {
+            "id": 12,
+            "categoria_id": 1,
+            "nome": "HBO‎",
+            "icon": "https://plexcollectionposters.com/images/2019/08/18/HBO-Plex-Poster5079cd68c5852ac8.png",
+            "background": "https://comunidadeculturaearte.com/wp-content/uploads/2022/02/HBOMAX_PT_Horiz_RGB_PT-NO-HEADLINE-scaled-e1643704711410.jpg",
+            "descricao": "Séries e filmes aclamados do canal HBO.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-hbo.json"
+        },
+        {
+            "id": 13,
+            "categoria_id": 1,
+            "nome": "Infantil‎",
+            "icon": "https://image.tmdb.org/t/p/original/7YAFoSGn6gBhZFzuWhHaGa3jJOi.jpg",
+            "background": "https://image.tmdb.org/t/p/original/mlV1QYQ0iDUb8YjxjifvyC7Gcel.jpg",
+            "descricao": "Conteúdos divertidos e educativos para crianças.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-infantil.json"
+        },
+        {
+            "id": 14,
+            "categoria_id": 1,
+            "nome": "Internacional‎",
+            "icon": "https://static.poder360.com.br/2022/04/nieman-lab-cnn-plus--848x477.jpeg",
+            "background": "https://images.unsplash.com/photo-1654573815729-36ceae09218d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGNubnxlbnwwfHx8fDE2OTUyOTUzOTR8MA&ixlib=rb-4.0.3&q=80&w=2000",
+            "descricao": "Notícias e análises sobre eventos globais.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-internacional.json"
+        },
+        {
+            "id": 15,
+            "categoria_id": 1,
+            "nome": "Música‎",
+            "icon": "https://image.tmdb.org/t/p/original/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg",
+            "background": "https://image.tmdb.org/t/p/original/h1NDX8KuFkefABPujQJ5wWlqRdj.jpg",
+            "descricao": "Novidades, videoclipes e shows ao vivo.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-musica.json"
+        },
+        {
+            "id": 16,
+            "categoria_id": 1,
+            "nome": "Notícias‎",
+            "icon": "https://i0.wp.com/recordeuropa.com/wp-content/uploads/2023/04/banner_camera_record_2023.webp?fit=1920%2C1280&quality=100&ssl=1",
+            "background": "https://i0.wp.com/recordeuropa.com/wp-content/uploads/2023/04/banner_camera_record_2023.webp?fit=1920%2C1280&quality=100&ssl=1",
+            "descricao": "Atualizações diárias sobre eventos e política.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-noticias.json"
+        },
+        {
+            "id": 17,
+            "categoria_id": 1,
+            "nome": "Religioso‎",
+            "icon": "https://scontent.fbel15-1.fna.fbcdn.net/v/t39.30808-6/289778089_163221519708972_6601851994078463480_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ViW7G5JD_Q4Q7kNvgHB37yO&_nc_ht=scontent.fbel15-1.fna&_nc_gid=AvH78T6LhUEqMDSkV9yixf2&oh=00_AYDXV1I-N6wLNlPjLxWV0yYll2iXeYnl86YUORfogwuuDQ&oe=66FA8F23",
+            "background": "https://scontent.fbel15-1.fna.fbcdn.net/v/t39.30808-6/289778089_163221519708972_6601851994078463480_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ViW7G5JD_Q4Q7kNvgHB37yO&_nc_ht=scontent.fbel15-1.fna&_nc_gid=AvH78T6LhUEqMDSkV9yixf2&oh=00_AYDXV1I-N6wLNlPjLxWV0yYll2iXeYnl86YUORfogwuuDQ&oe=66FA8F23",
+            "descricao": "Conteúdos sobre espiritualidade e práticas religiosas.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-religioso.json"
+        },
+        {
+            "id": 18,
+            "categoria_id": 1,
+            "nome": "Telecine‎",
+            "icon": "https://i.ibb.co/PvLQyZ7H/Chat-GPT-Image-15-de-jun-de-2025-15-42-03.png",
+            "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjrL570pv16-tEBFmY-fhdICcCF7-Y_cUkQ7DTBqHPnTdAJ2Bcj-9fumh&s=10",
+            "descricao": "Filmes variados e lançamentos do canal Telecine.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-telecine.json"
+        },
+        {
+            "id": 19,
+            "categoria_id": 1,
+            "nome": "Variedades‎",
+            "icon": "https://image.tmdb.org/t/p/original/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "background": "https://image.tmdb.org/t/p/original/b0WmHGc8LHTdGCVzxRb3IBMur57.jpg",
+            "descricao": "Programas diversos que abrangem múltiplos interesses.",
+            "programacao": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/jsons/videos-variedades.json"
+        }
+    ]
+}

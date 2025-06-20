@@ -1,0 +1,79 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH213",
+            "callLetter": "HDGLN",
+            "channelNumber": 540,
+            "channelMapNumber": 540,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/63/12636011_5F32AC7ACE93517F.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Globo News"
+        },
+        {
+            "pid": "LCH4068",
+            "callLetter": "HDCNN",
+            "channelNumber": 577,
+            "channelMapNumber": 577,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/71/6711228_154BC2F6F4BAB060.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "CNN Brasil"
+        },
+        {
+            "pid": "LCH7064",
+            "callLetter": "CNNMO",
+            "channelNumber": 578,
+            "channelMapNumber": 578,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20915592_0D9ADABA9D58EF6A.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "CNN Money"
+        },
+        {
+            "pid": "LCH2091",
+            "callLetter": "RECND",
+            "channelNumber": 586,
+            "channelMapNumber": 586,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/74/17745058_720F4926E05B8E8D.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Record News"
+        },
+        {
+            "pid": "LCH7065",
+            "callLetter": "CNBC",
+            "channelNumber": 592,
+            "channelMapNumber": 592,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/22/21229755_9EEF7C549B122E40.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TIMES EXCLUSIVO CNBC"
+        }
+    ]
+}

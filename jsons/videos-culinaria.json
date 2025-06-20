@@ -1,0 +1,109 @@
+{
+    "userChannels": [
+        {
+            "pid": "0",
+            "callLetter": "HDFOO",
+            "channelNumber": 501,
+            "channelMapNumber": 501,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Food Network, Food Network Brasil, TV Food Network, Food TV"
+        },
+        {
+            "pid": "0",
+            "callLetter": "CHEFD",
+            "channelNumber": 502,
+            "channelMapNumber": 502,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Chef TV, TV Chef, Chef Television, Chef TV Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDGNT",
+            "channelNumber": 503,
+            "channelMapNumber": 503,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "GNT, Globo News Tempo, GNT Brasil, TV GNT, Canal GNT"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTLC",
+            "channelNumber": 504,
+            "channelMapNumber": 504,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TLC, TLC Brasil, Travel and Living Channel, TV TLC, TLC Culinary"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDSAB",
+            "channelNumber": 505,
+            "channelMapNumber": 505,
+            "image": {
+                "type": "Icon",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpu0mLpJuwzYaO3KpPwEhh_yEGmSoHUg1FJdomIDPoxXE4p9ZhKB1uzAo&s=10"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Sabor & Arte, Sabor e Arte, TV Sabor & Arte, Sabor Arte TV"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HD24K",
+            "channelNumber": 506,
+            "channelMapNumber": 506,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "24Kitchen, 24 Kitchen, TV 24Kitchen, 24Kitchen Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDGAS",
+            "channelNumber": 507,
+            "channelMapNumber": 507,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Canal Gastronomia, Gastronomia TV, TV Gastronomia, Canal Culinária"
+        }
+    ]
+}

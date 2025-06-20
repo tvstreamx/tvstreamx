@@ -1,0 +1,124 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH5577",
+            "callLetter": "HDBBC",
+            "channelNumber": 580,
+            "channelMapNumber": 580,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/63/15630816_9148CAB71BB654DD.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "BBC World,BBC"
+        },
+        {
+            "pid": "LCH2067",
+            "callLetter": "CNNID",
+            "channelNumber": 584,
+            "channelMapNumber": 584,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116409_A8CA93749FDAF8A1.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "CNNi,CNN International"
+        },
+        {
+            "pid": "LCH2090",
+            "callLetter": "RAID",
+            "channelNumber": 701,
+            "channelMapNumber": 701,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116735_D33EF137B6C221CF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RAI,RAI Italia"
+        },
+        {
+            "pid": "LCH2071",
+            "callLetter": "DWD",
+            "channelNumber": 702,
+            "channelMapNumber": 702,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3118494_FF63BA66B78B4311.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "DW,Deutsche Welle"
+        },
+        {
+            "pid": "LCH2104",
+            "callLetter": "TV5DD",
+            "channelNumber": 705,
+            "channelMapNumber": 705,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116390_D6D06CBDEA0E7393.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV5Monde,TV5 Monde"
+        },
+        {
+            "pid": "0",
+            "callLetter": "FR24",
+            "channelNumber": 703,
+            "channelMapNumber": 703,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "France 24,France24"
+        },
+        {
+            "pid": "0",
+            "callLetter": "NHKW",
+            "channelNumber": 704,
+            "channelMapNumber": 704,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "NHK World,NHK"
+        },
+        {
+            "pid": "0",
+            "callLetter": "RTTV",
+            "channelNumber": 706,
+            "channelMapNumber": 706,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RT,RT International"
+        }
+    ]
+}

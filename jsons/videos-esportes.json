@@ -1,0 +1,319 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH1210",
+            "callLetter": "HDSP3",
+            "channelNumber": 537,
+            "channelMapNumber": 537,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760136_2F65534C9CCA32CF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "SporTV 3,SporTV3"
+        },
+        {
+            "pid": "LCH217",
+            "callLetter": "HDSP2",
+            "channelNumber": 538,
+            "channelMapNumber": 538,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/76/9760139_35DCF658F568277B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "SporTV 2,SporTV2"
+        },
+        {
+            "pid": "LCH211",
+            "callLetter": "ESPN",
+            "channelNumber": 569,
+            "channelMapNumber": 569,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867115_3A16152FF6774779.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "ESPN,ESPN Brasil"
+        },
+        {
+            "pid": "LCH464",
+            "callLetter": "ESPN2",
+            "channelNumber": 570,
+            "channelMapNumber": 570,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/38/10384486_AB8E9D8C388586FE.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "ESPN 2,ESPN2 Brasil"
+        },
+        {
+            "pid": "LCH49",
+            "callLetter": "ESPN3",
+            "channelNumber": 571,
+            "channelMapNumber": 571,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/38/10384489_E5C95719BCA28E67.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "ESPN 3,ESPN3 Brasil"
+        },
+        {
+            "pid": "LCH144",
+            "callLetter": "ESPN4",
+            "channelNumber": 572,
+            "channelMapNumber": 572,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/38/10384490_2B51FCB830037A84.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "ESPN 4,ESPN4 Brasil"
+        },
+        {
+            "pid": "LCH855",
+            "callLetter": "ESPN5",
+            "channelNumber": 573,
+            "channelMapNumber": 573,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/13/18139482_2DA83577D86534DC.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "ESPN 5,ESPN5 Brasil"
+        },
+        {
+            "pid": "LCH3545",
+            "callLetter": "ESPN6",
+            "channelNumber": 574,
+            "channelMapNumber": 574,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/13/18139480_B2DB6BD6CF2C9700.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "ESPN 6,ESPN6 Brasil"
+        },
+        {
+            "pid": "LCH2106",
+            "callLetter": "WOOHD",
+            "channelNumber": 576,
+            "channelMapNumber": 576,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/74/17745274_FAA97E5C6E3EEC6D.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Woohoo,Canal Woohoo"
+        },
+        {
+            "pid": "LCH3379",
+            "callLetter": "HDFISH",
+            "channelNumber": 632,
+            "channelMapNumber": 632,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/13/46/13467795_B0B1949E7BAB2B2E.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Fish TV,Canal Fish TV"
+        },
+        {
+            "pid": "LCH142",
+            "callLetter": "HDPR2",
+            "channelNumber": 722,
+            "channelMapNumber": 722,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116727_C6E63EF281B5ABF5.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 2,Premiere2"
+        },
+        {
+            "pid": "LCH937",
+            "callLetter": "HDPR3",
+            "channelNumber": 723,
+            "channelMapNumber": 723,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116728_3DC72E8B5B0E8FBB.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 3,Premiere3"
+        },
+        {
+            "pid": "LCH1995",
+            "callLetter": "HDPR4",
+            "channelNumber": 724,
+            "channelMapNumber": 724,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/32/9324487_CD7C0BF1FB9D8394.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 4,Premiere4"
+        },
+        {
+            "pid": "LCH1996",
+            "callLetter": "HDPR5",
+            "channelNumber": 725,
+            "channelMapNumber": 725,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/09/18090696_E4D0214F4E5619E5.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 5,Premiere5"
+        },
+        {
+            "pid": "LCH2440",
+            "callLetter": "HDPR6",
+            "channelNumber": 726,
+            "channelMapNumber": 726,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116731_6CF46E0B8ADC2087.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 6,Premiere6"
+        },
+        {
+            "pid": "LCH2441",
+            "callLetter": "HDPR7",
+            "channelNumber": 727,
+            "channelMapNumber": 727,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116732_725060167CA23478.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 7,Premiere7"
+        },
+        {
+            "pid": "LCH2439",
+            "callLetter": "HDPR8",
+            "channelNumber": 728,
+            "channelMapNumber": 728,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/92/20928884_9C4587F3F2F94D81.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 8,Premiere8"
+        },
+        {
+            "pid": "LCH5670",
+            "callLetter": "HDPR9",
+            "channelNumber": 729,
+            "channelMapNumber": 729,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/74/11743948_74F607B5145B192B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Premiere 9,Premiere9"
+        },
+        {
+            "pid": "0",
+            "callLetter": "SPORTV",
+            "channelNumber": 539,
+            "channelMapNumber": 539,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "SporTV,SporTV Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "FOXSP",
+            "channelNumber": 575,
+            "channelMapNumber": 575,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Fox Sports,Fox Sports Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "BANDSP",
+            "channelNumber": 577,
+            "channelMapNumber": 577,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Band Sports,BandSports"
+        }
+    ]
+}

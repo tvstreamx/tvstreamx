@@ -1,0 +1,247 @@
+{
+    "subcategorias": [
+        {
+            "id": 0,
+            "categoria_id": 2,
+            "nome": "Pesquisar‎ ",
+            "icon": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/imagens/pesquisar.png",
+            "background": "https://raw.githubusercontent.com/brasilstream-plus/repositorio/refs/heads/main/imagens/fanart.jpg",
+            "descricao": "Navegue com facilidade por um universo de filmes e séries usando uma busca simples e eficaz, perfeita para encontrar tanto novidades quanto clássicos atemporais.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&with_text_query={realizarbusca}"
+        },
+        {
+            "id": 1,
+            "categoria_id": 2,
+            "nome": "Lançamentos‎‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Fique por dentro dos filmes mais recentes que acabaram de chegar às telonas e plataformas, ideais para quem não quer perder as estreias do momento.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&primary_release_year=2025&page=1"
+        },
+        {
+            "id": 2,
+            "categoria_id": 2,
+            "nome": "Tendências da Semana‎‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Acompanhe os filmes que estão dominando as conversas e conquistando o público global nesta semana, reunindo o que há de mais quente nas telas.",
+            "programacao": "https://api.themoviedb.org/3/movie/now_playing?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&page=1"
+        },
+        {
+            "id": 3,
+            "categoria_id": 2,
+            "nome": "Netflix‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Explore um catálogo repleto de filmes incríveis da Netflix, com sucessos de bilheteria e produções exclusivas para todos os gostos.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_watch_providers=8&watch_region=BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 4,
+            "categoria_id": 2,
+            "nome": "Amazon Prime‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Descubra filmes imperdíveis no Amazon Prime, desde lançamentos recentes até clássicos que valem a pena revisitar.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_watch_providers=119&watch_region=BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 5,
+            "categoria_id": 2,
+            "nome": "Disney+‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Mergulhe em um mundo mágico com os filmes do Disney+, trazendo animações adoradas e aventuras épicas de Disney, Pixar, Marvel e Star Wars.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&with_watch_providers=337&watch_region=BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 6,
+            "categoria_id": 2,
+            "nome": "Marvel Comics‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Viva as emoções do universo Marvel com filmes cheios de heróis lendários, batalhas épicas e histórias que marcaram gerações.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_companies=420&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 7,
+            "categoria_id": 2,
+            "nome": "DC Comics‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Explore o universo de heróis icônicos da DC, desde o Batman e Superman até a Liga da Justiça, em filmes repletos de ação e mitologia única.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_companies=128064&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 8,
+            "categoria_id": 2,
+            "nome": "Ação‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Sinta a adrenalina pulsar com filmes de ação cheios de combates intensos, perseguições de tirar o fôlego e momentos eletrizantes.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=28&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 9,
+            "categoria_id": 2,
+            "nome": "Aventura‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Aventure-se por cenários incríveis e histórias de coragem, com filmes que levam você a explorar o desconhecido e superar desafios.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=12&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 10,
+            "categoria_id": 2,
+            "nome": "Animação‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Deixe-se encantar por animações vibrantes que trazem histórias mágicas e personagens que conquistam corações de todas as idades.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=16&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 11,
+            "categoria_id": 2,
+            "nome": "Comédia‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Dê boas gargalhadas com filmes de comédia que misturam humor esperto e situações absurdas para alegrar seu dia.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=35&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 12,
+            "categoria_id": 2,
+            "nome": "Crime‎ ",
+            "icon": "https://example.com/icons/crime.png",
+            "background": "https://example.com/backgrounds/crime.jpg",
+            "descricao": "Entre no submundo do crime com filmes de investigações intricadas, suspense de tirar o fôlego e tramas surpreendentes.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=80&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 13,
+            "categoria_id": 2,
+            "nome": "Documentário‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Viaje pelo mundo real com documentários que revelam fatos curiosos, histórias inspiradoras e perspectivas únicas.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=99&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 14,
+            "categoria_id": 2,
+            "nome": "Drama‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Conecte-se com histórias humanas profundas e emocionantes que exploram sentimentos intensos e dilemas universais.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=18&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 15,
+            "categoria_id": 2,
+            "nome": "Família‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Reúna a família para curtir filmes leves e encantadores, perfeitos para criar memórias especiais juntos.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=10751&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 16,
+            "categoria_id": 2,
+            "nome": "Fantasia‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Escape para mundos de magia e maravilhas com filmes que trazem criaturas fantásticas e narrativas extraordinárias.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=14&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 17,
+            "categoria_id": 2,
+            "nome": "História‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Volte no tempo com filmes históricos que recriam eventos marcantes e figuras lendárias com detalhes impressionantes.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=36&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 18,
+            "categoria_id": 2,
+            "nome": "Terror‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Enfrente seus medos com filmes de terror que misturam sustos, atmosferas sombrias e histórias arrepiantes.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=27&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 19,
+            "categoria_id": 2,
+            "nome": "Música‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Vibre com filmes que celebram o poder da música, desde musicais cativantes até biografias de ícones inesquecíveis.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=10402&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 20,
+            "categoria_id": 2,
+            "nome": "Mistério‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Tente desvendar segredos intrigantes com filmes de mistério que desafiam sua curiosidade a cada cena.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=9648&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 21,
+            "categoria_id": 2,
+            "nome": "Romance‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Deixe-se levar por histórias de amor apaixonantes que aquecem o coração e celebram conexões especiais.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=10749&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 22,
+            "categoria_id": 2,
+            "nome": "Ficção científica‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Explore o futuro e o impossível com filmes de ficção científica que misturam tecnologia, aventura e ideias visionárias.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=878&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 23,
+            "categoria_id": 2,
+            "nome": "Filme de TV‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Curta produções feitas para a TV, com histórias envolventes que abrangem todos os gêneros e surpreendem a cada trama.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=10770&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 24,
+            "categoria_id": 2,
+            "nome": "Suspense‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Fique tenso com filmes de suspense que trazem reviravoltas inesperadas e atmosferas que mantêm você grudado na tela.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=53&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 25,
+            "categoria_id": 2,
+            "nome": "Guerra‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Mergulhe em batalhas históricas e dramas intensos com filmes de guerra que retratam heroísmo e sacrifício.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=10752&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        },
+        {
+            "id": 26,
+            "categoria_id": 2,
+            "nome": "Faroeste‎ ",
+            "icon": "",
+            "background": "",
+            "descricao": "Viva o clima do Velho Oeste com filmes de faroeste cheios de tiroteios, cavalos e histórias de justiça na fronteira.",
+            "programacao": "https://api.themoviedb.org/3/discover/movie?with_genres=37&api_key=404f82dca818618af6c280d9f5d95389&language=pt-BR&sort_by=primary_release_date.desc,vote_average.desc&page=1"
+        }
+    ]
+}

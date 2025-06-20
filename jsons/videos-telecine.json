@@ -1,0 +1,79 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH111",
+            "callLetter": "HDTCA",
+            "channelNumber": 686,
+            "channelMapNumber": 686,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/05/49/5490652_855B7A34DD928D19.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Telecine Action"
+        },
+        {
+            "pid": "LCH154",
+            "callLetter": "HDTCT",
+            "channelNumber": 687,
+            "channelMapNumber": 687,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/05/49/5490654_95D0F84C173E9B34.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Telecine Touch"
+        },
+        {
+            "pid": "LCH155",
+            "callLetter": "HDTCF",
+            "channelNumber": 688,
+            "channelMapNumber": 688,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/05/49/5490949_9F93958623372B39.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Telecine Fun"
+        },
+        {
+            "pid": "LCH112",
+            "callLetter": "HDTPI",
+            "channelNumber": 689,
+            "channelMapNumber": 689,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/05/49/5490950_57638750CC29E112.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Telecine Pipoca"
+        },
+        {
+            "pid": "LCH218",
+            "callLetter": "HDTCC",
+            "channelNumber": 690,
+            "channelMapNumber": 690,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/05/49/5490953_EF67ADD4EF6D246F.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Telecine Cult"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH2793",
+            "callLetter": "HDTNS",
+            "channelNumber": 629,
+            "channelMapNumber": 629,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116393_32283E6F63E3FA72.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TNT Séries,TNT Series"
+        },
+        {
+            "pid": "LCH5580",
+            "callLetter": "HDAMC",
+            "channelNumber": 639,
+            "channelMapNumber": 639,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867104_4F7C97B49745C5A3.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "AMC,AMC Brasil"
+        },
+        {
+            "pid": "LCH158",
+            "callLetter": "HDAXN",
+            "channelNumber": 644,
+            "channelMapNumber": 644,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116377_07E5F98C69568540.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "AXN,AXN Brasil"
+        },
+        {
+            "pid": "LCH653",
+            "callLetter": "HDTBS",
+            "channelNumber": 647,
+            "channelMapNumber": 647,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/30/16305196_76B1C3281B1986EF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TNT Novelas,TNT Novelas Brasil"
+        },
+        {
+            "pid": "LCH126",
+            "callLetter": "HDTNT",
+            "channelNumber": 648,
+            "channelMapNumber": 648,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116394_9509CCCE621F82F2.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TNT,TNT Brasil"
+        },
+        {
+            "pid": "LCH108",
+            "callLetter": "HDSPA",
+            "channelNumber": 649,
+            "channelMapNumber": 649,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/19/3190492_9E4E9614C21AA2AF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Space,Space Brasil"
+        },
+        {
+            "pid": "LCH932",
+            "callLetter": "HDCMX",
+            "channelNumber": 650,
+            "channelMapNumber": 650,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116407_6B706B96531B5813.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Cinemax,Cinemax Brasil"
+        },
+        {
+            "pid": "LCH2093",
+            "callLetter": "USA",
+            "channelNumber": 652,
+            "channelMapNumber": 652,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/07/17078132_6FB7298C3EBFB541.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "USA,USA Network"
+        },
+        {
+            "pid": "LCH2080",
+            "callLetter": "HDSTU",
+            "channelNumber": 653,
+            "channelMapNumber": 653,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3118497_61C93507875FDA75.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Studio Universal,Studio Universal Brasil"
+        },
+        {
+            "pid": "LCH936",
+            "callLetter": "HDUNV",
+            "channelNumber": 654,
+            "channelMapNumber": 654,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/82/3828917_13736897C3A7EE56.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Universal TV,Universal"
+        },
+        {
+            "pid": "LCH79",
+            "callLetter": "HDMEG",
+            "channelNumber": 655,
+            "channelMapNumber": 655,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116463_33A5D1EB1DC86AA7.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Megapix,Canal Megapix"
+        },
+        {
+            "pid": "LCH929",
+            "callLetter": "HDCBR",
+            "channelNumber": 656,
+            "channelMapNumber": 656,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11867108_E367EBE364D74520.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Canal Brasil,Brasil"
+        },
+        {
+            "pid": "LCH7142",
+            "callLetter": "TCMD",
+            "channelNumber": 657,
+            "channelMapNumber": 657,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116745_28FFF376F4E755E6.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TCM,TCM Brasil"
+        },
+        {
+            "pid": "LCH5578",
+            "callLetter": "HDEURO",
+            "channelNumber": 660,
+            "channelMapNumber": 660,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/09/79/9799514_101A9DADD3EEFF22.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Eurochannel,Euro Channel"
+        },
+        {
+            "pid": "LCH6356",
+            "callLetter": "HDSONY",
+            "channelNumber": 661,
+            "channelMapNumber": 661,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/14/89/14890843_FA36D119CE56B664.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "SONY Movies,Sony"
+        },
+        {
+            "pid": "0",
+            "callLetter": "FX",
+            "channelNumber": 643,
+            "channelMapNumber": 643,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "FX,FX Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HBO",
+            "channelNumber": 670,
+            "channelMapNumber": 670,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO,HBO Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HBO2",
+            "channelNumber": 671,
+            "channelMapNumber": 671,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO 2,HBO2 Brasil"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH6520",
+            "callLetter": "RBIHD",
+            "channelNumber": 527,
+            "channelMapNumber": 527,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/72/16727903_B71ADC7D27B86502.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RBI"
+        },
+        {
+            "pid": "LCH81",
+            "callLetter": "HDBIS",
+            "channelNumber": 535,
+            "channelMapNumber": 535,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114908_4D12CC29E7B73D78.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "BIS"
+        },
+        {
+            "pid": "LCH151",
+            "callLetter": "HDOFF",
+            "channelNumber": 536,
+            "channelMapNumber": 536,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114909_FD3076E234C0C522.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "OFF"
+        },
+        {
+            "pid": "LCH214",
+            "callLetter": "HDGNT",
+            "channelNumber": 541,
+            "channelMapNumber": 541,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3114961_120F304252C372D2.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "GNT"
+        },
+        {
+            "pid": "LCH6232",
+            "callLetter": "HDMARK",
+            "channelNumber": 611,
+            "channelMapNumber": 611,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/42/12426313_412D0C465C2C77F3.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Markket"
+        },
+        {
+            "pid": "LCH7066",
+            "callLetter": "UOL",
+            "channelNumber": 613,
+            "channelMapNumber": 613,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/91/20915593_1A35D906FA13506B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "UOL"
+        }
+    ]
+}

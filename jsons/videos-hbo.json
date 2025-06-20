@@ -1,0 +1,139 @@
+{
+    "userChannels": [
+        {
+            "pid": "LCH182",
+            "callLetter": "HDHBB",
+            "channelNumber": 665,
+            "channelMapNumber": 665,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/16/3163537_068A70F63E96FC68.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO,HBO Brasil"
+        },
+        {
+            "pid": "LCH462",
+            "callLetter": "HDHBP",
+            "channelNumber": 667,
+            "channelMapNumber": 667,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/04/94/4943016_C28D52297B7C2060.PNG"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO Plus,HBO+"
+        },
+        {
+            "pid": "LCH460",
+            "callLetter": "HDHBF",
+            "channelNumber": 669,
+            "channelMapNumber": 669,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/11/3116450_EA39EAF03513E09A.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO Family,HBO Família"
+        },
+        {
+            "pid": "LCH461",
+            "callLetter": "HDHBS",
+            "channelNumber": 670,
+            "channelMapNumber": 670,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/16/3163539_3A523BE1CBEE67AF.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO Signature,HBO Assinatura"
+        },
+        {
+            "pid": "LCH76",
+            "callLetter": "HHBOPP",
+            "channelNumber": 671,
+            "channelMapNumber": 671,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/56/6567647_1894F12940AE9C0B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO Pop,HBO Pop Brasil"
+        },
+        {
+            "pid": "LCH933",
+            "callLetter": "HHBOMD",
+            "channelNumber": 672,
+            "channelMapNumber": 672,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/56/6567646_E492630862D38530.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO Mundi,HBO Mundo"
+        },
+        {
+            "pid": "LCH7141",
+            "callLetter": "HHBOXT",
+            "channelNumber": 673,
+            "channelMapNumber": 673,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/10/39/10399751_3BE28799883F0B65.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO Xtreme,HBO Extremo"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HBO2",
+            "channelNumber": 666,
+            "channelMapNumber": 666,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO 2,HBO2 Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HBOPM",
+            "channelNumber": 668,
+            "channelMapNumber": 668,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "HBO Premium,HBO Premium Brasil"
+        }
+    ]
+}

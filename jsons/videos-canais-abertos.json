@@ -1,0 +1,289 @@
+{
+    "userChannels": [
+        {
+            "pid": "0",
+            "callLetter": "HDTBR",
+            "channelNumber": 0,
+            "channelMapNumber": 0,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Globo, Globo SP, Tv Globo, Rede Globo, Globo Brasil"
+        },
+        {
+            "pid": "LCH3649",
+            "callLetter": "HDTBR",
+            "channelNumber": 503,
+            "channelMapNumber": 503,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16858566_0DDE81EF187F987B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Brasil, Televisão Brasil, Brasil TV, TV Brasil Nacional"
+        },
+        {
+            "pid": "LCH7143",
+            "callLetter": "OTTSBT",
+            "channelNumber": 7607,
+            "channelMapNumber": 506,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/74/11748774_6041148868BC54D7.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "SBT, SBT SP, Sistema Brasileiro de Televisão, SBT Brasil"
+        },
+        {
+            "pid": "LCH5685",
+            "callLetter": "OTTBAN",
+            "channelNumber": 1272,
+            "channelMapNumber": 509,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/74/11748887_FBC2613821BA6F12.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Band, Bandeirantes, Rede Bandeirantes, Band Brasil, TV Bandeirantes"
+        },
+        {
+            "pid": "LCH4050",
+            "callLetter": "HDRDB",
+            "channelNumber": 526,
+            "channelMapNumber": 526,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/06/48/6484024_27835C7981400442.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Rede Brasil, TV Rede Brasil, RBTV, Rede Brasil de Televisão"
+        },
+        {
+            "pid": "LCH7145",
+            "callLetter": "OTTREC",
+            "channelNumber": 7609,
+            "channelMapNumber": 507,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/29/3298007_6EBD9B7E817890F3.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Record, Record SP, RecordTV, Rede Record, TV Record"
+        },
+        {
+            "pid": "LCH4071",
+            "callLetter": "HDRTVR",
+            "channelNumber": 517,
+            "channelMapNumber": 517,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/73/3732266_DD8C13C31C28497B.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RedeTV, Rede Tv, RedeTV!, TV RedeTV, Rede TV Brasil"
+        },
+        {
+            "pid": "LCH3651",
+            "callLetter": "HDTRBO",
+            "channelNumber": 604,
+            "channelMapNumber": 604,
+            "image": {
+                "type": "Icon",
+                "url": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/03/43/3437876_150DF8E189BD6314.png"
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Travel Box Brazil, Travel Box Brasil, TV Travel Box, Travel Box"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTVC",
+            "channelNumber": 501,
+            "channelMapNumber": 501,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Cultura, Cultura, Televisão Cultura, Cultura TV, TV Cultura SP"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTVG",
+            "channelNumber": 502,
+            "channelMapNumber": 502,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Gazeta, Gazeta, Televisão Gazeta, Gazeta TV, TV Gazeta SP"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDRIT",
+            "channelNumber": 510,
+            "channelMapNumber": 510,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "RIT, Rede Internacional de Televisão, RIT TV, TV RIT, RIT Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDCNT",
+            "channelNumber": 511,
+            "channelMapNumber": 511,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "CNT, Central Nacional de Televisão, CNT TV, TV CNT, CNT Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDCN",
+            "channelNumber": 512,
+            "channelMapNumber": 512,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Canção Nova, TV Canção Nova, Canção Nova TV, TVCN"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDITV",
+            "channelNumber": 513,
+            "channelMapNumber": 513,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Ideal, Ideal TV, TV Ideal, Ideal Televisão, TV Ideal Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTVA",
+            "channelNumber": 514,
+            "channelMapNumber": 514,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Aparecida, Aparecida TV, TV Aparecida SP, Televisão Aparecida"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTVCAM",
+            "channelNumber": 515,
+            "channelMapNumber": 515,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Câmara, Câmara TV, Televisão Câmara, TV Câmara Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTVSE",
+            "channelNumber": 516,
+            "channelMapNumber": 516,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Senado, Senado TV, Televisão Senado, TV Senado Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDTVE",
+            "channelNumber": 518,
+            "channelMapNumber": 518,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "TV Escola, Escola TV, Televisão Escola, TV Escola Brasil"
+        },
+        {
+            "pid": "0",
+            "callLetter": "HDFUT",
+            "channelNumber": 519,
+            "channelMapNumber": 519,
+            "image": {
+                "type": "Icon",
+                "url": ""
+            },
+            "hasPlaylistExperience": false,
+            "isFastChannel": false,
+            "isDolby": false,
+            "isDolbyAtmos": false,
+            "ChannelName": "Futura, Canal Futura, TV Futura, Futura TV"
+        }
+    ]
+}
