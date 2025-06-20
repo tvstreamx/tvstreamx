@@ -7,7 +7,7 @@
     },
     "update": {
         "version": "1.0.7",
-        "url": "https://github.com/tvstreamx/tvstreamx/raw/main/plugin.video.tvstreamx.zip"
+        "url": "https://raw.githubusercontent.com/tvstreamx/tvstreamx/main/zips/plugin.video.tvstreamx.zip"
     },
     "epg_extras": []
 }
