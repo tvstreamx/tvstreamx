@@ -6,7 +6,7 @@
         "tmdb": "404f82dca818618af6c280d9f5d95389"
     },
     "update": {
-        "version": "1.0.8",
+        "version": "1.0.9",
         "url": "https://raw.githubusercontent.com/tvstreamx/tvstreamx/main/plugin.video.tvstreamx.zip"
     },
     "epg_extras": []
